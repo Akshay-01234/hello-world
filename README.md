@@ -1,2 +1,2 @@
 # hello-world
-Akshay's repository
+Akshay's repository to learning github
